@@ -47,7 +47,7 @@
     "babel-eslint": "^10.0.0",
     "babel-loader": "^8.0.0",
     "copyfiles": "^2.0.0",
-    "css-loader": "^2.0.0",
+    "css-loader": "^3.0.0",
     "eslint": "^5.12.1",
     "eslint-config-prettier": "^4.0.0",
     "eslint-plugin-import": "^2.15.0",
