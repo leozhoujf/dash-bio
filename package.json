@@ -30,7 +30,7 @@
     "ideogram": "git+https://github.com/eweitz/ideogram.git#7d9b2ab91b91ef35db93bdeb529d4760de63292f",
     "molecule-2d-for-react": "^0.2.3",
     "molecule-3d-for-react": "git://github.com/plotly/molecule-3d-for-react.git",
-    "plotly.js": "^1.47.4",
+    "plotly.js": "^2.25.2",
     "ramda": "^0.26.0",
     "react": "15.6.2",
     "react-alignment-viewer": "^0.5.5",
